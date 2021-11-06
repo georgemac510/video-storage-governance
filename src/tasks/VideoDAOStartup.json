@@ -1,0 +1,6 @@
+{
+    "title": "Should we start a DAO for the Disco-Rock-Repo with the id %s and with the hash 0x%s?",
+    "lang": "en",
+    "type": "bool",
+    "category": "DAO proposal"
+}
