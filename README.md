@@ -8,4 +8,4 @@ The completed app is running and ready for some proposal voting at:
 
       https://snapshot.org/#/disco-rock.eth
 
-The address of our Rinkeby Reality.eth Module contract is `0x81012E9c34d0B86efD057105581Dbaa5A54972F5`.
+Our deployed and verified Reality.eth Module contract can be found here: https://rinkeby.etherscan.io/address/0x81012E9c34d0B86efD057105581Dbaa5A54972F5 
