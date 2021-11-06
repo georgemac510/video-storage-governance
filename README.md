@@ -7,3 +7,5 @@ The governance app will use the Gnosis Rinkeby safe wallet (https://rinkeby.gnos
 The completed app is running and ready for some proposal voting at: 
 
       https://snapshot.org/#/disco-rock.eth
+
+The address of our Rinkeby Reality.eth Module contract is `0x81012E9c34d0B86efD057105581Dbaa5A54972F5`.
